@@ -26,7 +26,8 @@
 </h3>
 
 <div style="box-shadow: 10px 10px 5px lightblue;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorferreira22&show_icons=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=juniorferreira22&show_icons=true&theme=radical">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?juniorferreira22=anuraghazra">
 </div>
 </br>
 <p>
