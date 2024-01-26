@@ -2,7 +2,7 @@
   🖐🏻👦🏻 Olá! Como vai? Pode me chamar de <strong>Junior!</strong>
 </h3>
 
-🎈 <strong>Idade:</strong> 22 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
+🎈 <strong>Idade:</strong> 23 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
 
 <h3>
   📚 <strong>Estudando agora:</strong>
