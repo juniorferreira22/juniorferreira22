@@ -7,11 +7,11 @@
 <h3>
   📚 <strong>Estudando agora:</strong>
 </h3>
-• <strong>Engenharia de Software</strong> - análise de cenários econômicos;
+• <strong>Análise e Desenvolvimento de Sistemas (PUC-PR)</strong>;
 </br>
 • <strong>Python3</strong> - Estrutura de dados e Funções;
 </br>
-• <strong>Javascript</strong> - Estruturas de repetição;
+• <strong>NextJS</strong>;
 </br>
 <h3><strong>Formação:</strong></h3>• Técnico em Informática; </br>• Técnico em Administração;
 <h3>
