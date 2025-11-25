@@ -2,16 +2,13 @@
   🖐🏻👦🏻 Olá! Como vai? Pode me chamar de <strong>Junior!</strong>
 </h3>
 
-🎈 <strong>Idade:</strong> 23 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
+🎈 <strong>Idade:</strong> 24 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
 
 <h3>
   📚 <strong>Estudando agora:</strong>
 </h3>
 • <strong>Análise e Desenvolvimento de Sistemas (PUC-PR)</strong>;
-</br>
-• <strong>Python3</strong> - Estrutura de dados e Funções;
-</br>
-• <strong>NextJS</strong>;
+• <strong>Prisma ORM</strong>;
 </br>
 <h3><strong>Formação:</strong></h3>• Técnico em Informática; </br>• Técnico em Administração;
 <h3>
