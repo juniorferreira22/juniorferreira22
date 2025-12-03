@@ -8,6 +8,7 @@
   📚 <strong>Estudando agora:</strong>
 </h3>
 • <strong>Análise e Desenvolvimento de Sistemas (PUC-PR)</strong>;
+<br/>
 • <strong>Prisma ORM</strong>;
 </br>
 <h3><strong>Formação:</strong></h3>• Técnico em Informática; </br>• Técnico em Administração;
