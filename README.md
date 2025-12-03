@@ -6,9 +6,7 @@
 
 <br/>
 
-<div>
 <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=juniorferreira22&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
-</div>  
 
 <h3>
   📚 <strong>Estudando agora:</strong>
@@ -25,16 +23,3 @@
   <img src="https://user-images.githubusercontent.com/108851691/180667078-b242184a-297f-4d71-adef-f9d56d61c98f.png" width="50"> <img src="https://user-images.githubusercontent.com/108851691/180667284-3238e9c4-e0de-4fd1-b675-d5f363c812d0.png" width="45"> <img src="https://user-images.githubusercontent.com/108851691/180667054-e8dcc81d-b1cd-46e0-8d18-633f286a5073.png" width="48"> <img src="https://user-images.githubusercontent.com/108851691/180669838-d6f9d940-8f8f-4230-a6e3-9222dcd87dbd.png" width=50>
 </div>
 </br>
-<h3>
-  <strong>Estatísticas GitHub:</strong>
-</h3>
-
-<div style="box-shadow: 10px 10px 5px lightblue;">
-  <img src="https://github-readme-stats.vercel.app/api?username=juniorferreira22&show_icons=true&theme=dracula">
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorferreira22&layout=compact&theme=dracula">
-</div>
-</br>
-<p>
-  <i><strong>Conhecimento nunca é demais!</strong></i>
-</p>
