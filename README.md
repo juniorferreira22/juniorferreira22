@@ -1,5 +1,5 @@
 <h3>
-  🖐🏻👦🏻 Olá! Como vai? Pode me chamar de <strong>Junior!</strong>
+  <strong>Junior Ferreira</strong>
 </h3>
 
 🎈 <strong>Idade:</strong> 24 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
