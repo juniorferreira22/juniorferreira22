@@ -2,7 +2,7 @@
   <strong>Junior Ferreira</strong>
 </h3>
 
-🎈 <strong>Idade:</strong> 24 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
+<strong>Idade:</strong> 25 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
 
 <h3>
   📚 <strong>Estudando agora:</strong>
