@@ -7,9 +7,9 @@
 <h3>
   📚 <strong>Estudando agora:</strong>
 </h3>
-• <strong>Análise e Desenvolvimento de Sistemas (PUC-PR)</strong>;
+• <strong>Análise e Desenvolvimento de Sistemas (UniÍtalo) - 3/5</strong>;
 <br/>
-• <strong>Prisma ORM</strong>;
+• <strong>TypeScript / Prisma ORM / Neon DB + postgreSQL</strong>;
 </br>
 <h3><strong>Formação:</strong></h3>• Técnico em Informática; </br>• Técnico em Administração;
 <h3>
