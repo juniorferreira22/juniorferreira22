@@ -174,26 +174,24 @@ Quero contribuir para equipes de tecnologia, desenvolver soluções escaláveis 
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=juniorferreira22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" 
-    alt="GitHub Stats"
-  />
+<h2 align="center">📊 GitHub Activity</h2>
 
-<img 
- height="170" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorferreira22&layout=compact&theme=tokyonight&hide_border=true" 
- alt="Top Languages"
-/>
+<br>
+
+<h2 align="center">📈 GitHub Overview</h2>
+
+<p align="center"> <a href="https://github.com/juniorferreira22"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juniorferreira22&theme=tokyonight" alt="GitHub Profile Summary" /> </a> </p>
+
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juniorferreira22&theme=tokyonight" height="180" alt="Repositories per Language" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=juniorferreira22&theme=tokyonight" height="180" alt="Most Commit Language" />
 
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=juniorferreira22&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juniorferreira22&theme=tokyonight" height="180" alt="GitHub Statistics" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=juniorferreira22&theme=tokyonight&utcOffset=-3" height="180" alt="Productive Time" />
+
 </p>
 
 ---
