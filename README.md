@@ -16,9 +16,9 @@
 <h3>👨‍💻 Sobre mim</h3>
 
 <ul>
-  <li>Trabalho com desenvolvimento full-stack, criando aplicaç��es modernas e escaláveis.</li>
+  <li>Trabalho com desenvolvimento full-stack, criando aplicações modernas e escaláveis.</li>
   <li>Atualmente foco nas tecnologias que utilizo nos meus repositórios e projetos do dia a dia.</li>
-  <li>Tenho experiência com back-end, front-end e bancos de dados relacionais e não relacionais.</li>
+  <li>Tenho experiência com back-end, front-end, bancos de dados relacionais e não relacionais.</li>
 </ul>
 
 <h3>🚀 Tecnologias que uso</h3>
