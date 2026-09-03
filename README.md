@@ -172,10 +172,6 @@ Quero contribuir para equipes de tecnologia, desenvolver soluções escaláveis 
 
 ---
 
-<h2 align="center">📈 GitHub Stats</h2>
-
-<h2 align="center">📊 GitHub Activity</h2>
-
 <br>
 
 <h2 align="center">📈 GitHub Overview</h2>
