@@ -1,21 +1,64 @@
-<h3>
-  <strong>Junior Ferreira</strong>
-</h3>
+<h1 align="center">Junior Ferreira</h1>
 
-<strong>Idade:</strong> 25 anos;</br>👾 <strong>Ramo:</strong> Full-stack development;</br>
+<p align="center">
+  <strong>Full-stack Developer</strong> • <strong>ReactJS</strong> • <strong>JavaScript</strong> • <strong>Node.js</strong> • <strong>Python</strong>
+</p>
 
-<h3>
-  📚 <strong>Estudando agora:</strong>
-</h3>
-• <strong>Análise e Desenvolvimento de Sistemas (UniÍtalo) - 3/5</strong>;
-<br/>
-• <strong>TypeScript / Prisma ORM / Neon DB + postgreSQL</strong>;
-</br>
-<h3><strong>Formação:</strong></h3>• Técnico em Informática; </br>• Técnico em Administração;
-<h3>
-  <strong>Linguagens:</strong>
-</h3>
-<div id='linguagens'>
-  <img src="https://user-images.githubusercontent.com/108851691/180667078-b242184a-297f-4d71-adef-f9d56d61c98f.png" width="50"> <img src="https://user-images.githubusercontent.com/108851691/180667284-3238e9c4-e0de-4fd1-b675-d5f363c812d0.png" width="45"> <img src="https://user-images.githubusercontent.com/108851691/180667054-e8dcc81d-b1cd-46e0-8d18-633f286a5073.png" width="48"> <img src="https://user-images.githubusercontent.com/108851691/180669838-d6f9d940-8f8f-4230-a6e3-9222dcd87dbd.png" width=50>
-</div>
-</br>
+<p align="center">
+  <a href="https://github.com/juniorferreira22">
+    <img src="https://img.shields.io/github/followers/juniorferreira22?label=Followers&style=for-the-badge" alt="Followers" />
+  </a>
+  <a href="https://github.com/juniorferreira22?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Active%20Repositories-2ea44f?style=for-the-badge" alt="Projects" />
+  </a>
+</p>
+
+<h3>👨‍💻 Sobre mim</h3>
+
+<ul>
+  <li>Trabalho com desenvolvimento full-stack, criando aplicaç��es modernas e escaláveis.</li>
+  <li>Atualmente foco nas tecnologias que utilizo nos meus repositórios e projetos do dia a dia.</li>
+  <li>Tenho experiência com back-end, front-end e bancos de dados relacionais e não relacionais.</li>
+</ul>
+
+<h3>🚀 Tecnologias que uso</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma ORM" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose ODM" />
+</p>
+
+<h3>📚 Estudando agora</h3>
+
+<ul>
+  <li>Análise e Desenvolvimento de Sistemas (UniÍtalo) - 3/5</li>
+  <li>TypeScript</li>
+  <li>Prisma ORM</li>
+  <li>Neon DB + PostgreSQL</li>
+</ul>
+
+<h3>🎓 Formação</h3>
+
+<ul>
+  <li>Técnico em Informática</li>
+  <li>Técnico em Administração</li>
+</ul>
+
+<h3>📈 GitHub Stats</h3>
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=juniorferreira22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniorferreira22&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<h3>📫 Contato</h3>
+
+<p>
+  <a href="https://github.com/juniorferreira22">GitHub</a>
+</p>
